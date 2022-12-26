@@ -1,15 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "ITpDyiF069SHA0V4pJcMwowVBaqgc0C7gNOnYaAgN6VCkBYnB1Sdn83Ysp9sLsxqn7uAZHxS0l3UqevRXa37pg==",
+  "dgSpecHash": "4PXGw9idU29towRpWHh2wK9O89OtX8xOeMmFwIA3DmdLz5W+wSsyVl/PHj5fkmtRVKT+tBeDywqOQdakYVQX/A==",
   "success": true,
   "projectFilePath": "C:\\Users\\iury silva\\Documents\\GitHub\\Personal-RabbitMQ\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iury silva\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\iury silva\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\iury silva\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\iury silva\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\iury silva\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\iury silva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\iury silva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\iury silva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\iury silva\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\iury silva\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
