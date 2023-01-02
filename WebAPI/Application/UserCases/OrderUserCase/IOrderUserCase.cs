@@ -4,6 +4,6 @@ namespace WebAPI.Application.UserCases.OrderUserCase
 {
     public interface IOrderUserCase
     {
-        Task<Order> InsertOrder(Order order);
+        Task<bool> InsertOrder(Order order);
     }
 }

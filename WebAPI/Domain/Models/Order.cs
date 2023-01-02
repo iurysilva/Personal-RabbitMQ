@@ -2,8 +2,8 @@
 {
     public sealed class Order
     {
-        public int OrderNumber { get; set; }
-        public string? ItemName { get; set; }
+        public int OrderId { get; set; }
+        public string? Name { get; set; }
         public float Price { get; set; }
     }
 }

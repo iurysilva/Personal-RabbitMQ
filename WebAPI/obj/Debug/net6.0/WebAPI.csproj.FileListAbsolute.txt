@@ -31,3 +31,4 @@ C:\Users\iury silva\Documents\GitHub\Personal-RabbitMQ\WebAPI\obj\Debug\net6.0\W
 C:\Users\iury silva\Documents\GitHub\Personal-RabbitMQ\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
 C:\Users\iury silva\Documents\GitHub\Personal-RabbitMQ\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
 C:\Users\iury silva\Documents\GitHub\Personal-RabbitMQ\WebAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\iury silva\Documents\GitHub\Personal-RabbitMQ\WebAPI\bin\Debug\net6.0\appsettings.Fabrica.json
